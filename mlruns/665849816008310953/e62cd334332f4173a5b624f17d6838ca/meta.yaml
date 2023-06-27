@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hungnguyen/mlops-mara-sample-public/mlruns/665849816008310953/e62cd334332f4173a5b624f17d6838ca/artifacts
+end_time: 1687534091617
+entry_point_name: ''
+experiment_id: '665849816008310953'
+lifecycle_stage: active
+run_id: e62cd334332f4173a5b624f17d6838ca
+run_name: melodic-auk-59
+run_uuid: e62cd334332f4173a5b624f17d6838ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687534090348
+status: 3
+tags: []
+user_id: hungnguyen

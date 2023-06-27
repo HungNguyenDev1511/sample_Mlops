@@ -1,0 +1,6 @@
+artifact_location: file:///home/hungnguyen/mlops-mara-sample-public/mlruns/665849816008310953
+creation_time: 1687534089024
+experiment_id: '665849816008310953'
+last_update_time: 1687534089024
+lifecycle_stage: active
+name: phase-1_prob-2_xgb-1
